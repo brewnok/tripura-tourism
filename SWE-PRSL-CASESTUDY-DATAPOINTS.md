@@ -14,13 +14,13 @@
 ## 2. Operational Monitoring
 **Sheet Name**: `Tour_Schedules`
 
-| Tour ID | Tour Name          | Date       | Status      | Tour Guide | Number of Participants | Vehicle ID |
-|---------|--------------------|------------|-------------|------------|------------------------|------------|
-| 2001    | Paris City Tour     | 2025-01-01 | Completed   | John Doe   | 15                     | V123       |
-| 2002    | Eiffel Tower Visit  | 2025-01-02 | Canceled    | Jane Smith | 0                      | V124       |
-| 2003    | Louvre Museum Tour  | 2025-01-03 | Completed   | Mike Brown | 10                     | V125       |
-| 2004    | Seine River Cruise  | 2025-01-04 | Completed   | Lucy White | 20                     | V126       |
-| 2005    | Versailles Palace   | 2025-01-05 | Pending     | Alan Black | 8                      | V127       |
+| Tour ID | Tour Name          | Date                | Status      | Tour Guide | Number of Participants | Vehicle ID | Due Date              |
+|---------|--------------------|---------------------|-------------|------------|------------------------|------------|-----------------------|
+| 2001    | Paris City Tour     | 2025-01-01 08:00:00 | Completed   | John Doe   | 15                     | V123       | 2025-01-01 12:00:00   |
+| 2002    | Eiffel Tower Visit  | 2025-01-02 09:00:00 | Canceled    | Jane Smith | 0                      | V124       | 2025-01-02 14:00:00   |
+| 2003    | Louvre Museum Tour  | 2025-01-03 10:00:00 | Completed   | Mike Brown | 10                     | V125       | 2025-01-03 15:00:00   |
+| 2004    | Seine River Cruise  | 2025-01-04 08:30:00 | Completed   | Lucy White | 20                     | V126       | 2025-01-04 13:30:00   |
+| 2005    | Versailles Palace   | 2025-01-05 09:30:00 | Pending     | Alan Black | 8                      | V127       | 2025-01-05 14:30:00   |
 
 ---
 
